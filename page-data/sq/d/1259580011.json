@@ -1,0 +1,1 @@
+{"data":{"strapi":{"mainMenus":[{"item":{"order":3,"page":{"slug":"kontakt","title":"Kontakt"},"isProduct":null,"product":null}},{"item":{"order":2,"page":{"slug":"ueber-uns","title":"über uns"},"isProduct":null,"product":null}},{"item":{"order":1,"page":null,"isProduct":true,"product":{"slug":"safro","name":"SAFRO"}}}]}}}
